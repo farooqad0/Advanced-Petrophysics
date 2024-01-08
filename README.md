@@ -8,8 +8,9 @@
 </ul>
 <p><img src="https://github.com/farooqad0/Advanced-Petrophysics/blob/main/Images/Correlation_Matrix.png" alt="correlation_matrix" /></p>
 <p>It provides the great insights regarding the weak and strong positive or negative correlation between each logs to indicate potential multicollinearity.</p>
+<p>The several unsupervised machine learning algorithms are implemented on the desired logs to indicate the inliers and outliers in logs.</p>
 <ul>
-<li>The several unsupervised machine learning algorithms are implemented on the desired logs to indicate the inliers and outliers<img src="https://github.com/farooqad0/Advanced-Petrophysics/blob/main/Images/Statistics.png" alt="Statistics" /> in logs. Following unsupervised machine learning algorithms are implemented are as under:
+<li>Following unsupervised machine learning algorithms are implemented are as under:
 <ul>
 <li>Isolation Forest</li>
 <li>Elliptic Envelope</li>
@@ -54,5 +55,5 @@
 <ul>
 <li>The average petrophysical properties (Average Porosity, Volume of Shale and Effective Porosity) and Water saturation of hydrocarbon bearing zones are provided to come upt with the final insight of zoom view of the curves.</li>
 </ul>
-<p><img src="https://github.com/farooqad0/Advanced-Petrophysics/blob/main/Images/Averagepng.png" alt="average" /></p>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
