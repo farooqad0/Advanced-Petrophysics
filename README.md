@@ -55,5 +55,5 @@
 <ul>
 <li>The average petrophysical properties (Average Porosity, Volume of Shale and Effective Porosity) and Water saturation of hydrocarbon bearing zones are provided to come upt with the final insight of zoom view of the curves.</li>
 </ul>
-<p>&nbsp;</p>
+<p>&nbsp;<img src="https://github.com/farooqad0/Advanced-Petrophysics/blob/main/Images/Averagepng.png" alt="average" /></p>
 <p>&nbsp;</p>
